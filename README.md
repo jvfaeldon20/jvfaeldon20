@@ -26,7 +26,7 @@ I'm an indie full-stack developer and building my version of the digital world o
 
 ### 📊 Stats
 
-![JVFaeldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvfaeldon20&show_icons=true&theme=prussian)
+![JVFaeldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvfaeldon20&show_icons=true&theme=gotham)
 
 
 #

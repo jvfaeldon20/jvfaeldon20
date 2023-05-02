@@ -40,7 +40,7 @@ I'm an indie full-stack developer and building my version of the digital world o
 
 ### 📊 Stats
 
-![JVFaeldon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=jvfaeldon20&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=jvfaeldon20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only))
+![JVFaeldon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvfaeldon20&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 
 [website]: https://jvfaeldon.com
